@@ -1,0 +1,47 @@
+.container{
+    width: 50%;
+    height: 100%;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+    border: 2px solid #00008b;
+    background-color: cornflowerblue;
+
+}
+
+.inputField{
+    background-color: rgb(214, 164, 222);
+    border-radius: 6px;
+    height: 30px;
+    padding-right: 4px;
+    margin-bottom: 30px;
+
+}
+
+.addingBtn{
+    background-color: rgb(204, 66, 73);
+    border-radius: 6px;
+    height: 40px;
+    width: 70px;
+    padding: 4px;
+    margin-bottom: 30px;
+
+}
+
+.taskData{
+    width: 90%;
+    column-count: 2;
+    text-align: center;
+
+}
+
+#deleteIcon{
+    margin-top: 20px;
+    margin-left: 60%;
+    background-color: rgb(193, 222, 52);
+    border-radius: 6px;
+    height: 30px;
+    width: 70px;
+    padding: 4px;
+    margin-bottom: 30px;
+}
